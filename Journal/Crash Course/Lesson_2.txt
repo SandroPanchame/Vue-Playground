@@ -1,0 +1,14 @@
+> data() vs data: function()
+    - You use data() so that the same data object is 
+    not shared between other child components, which can lead to bugs.
+    - There doesn't seem to be a real difference between the two?
+    - data() -> es6 shorthand for data: function()
+
+> es6
+    - ecma script
+    - standardization of javascript
+
+> Lesson 2
+    - it appears I have the ending code for the course.
+    - will have to fork and switch branches of the original code to have a starter
+    - kind of sucks, but what ever. Need to be able to follow along

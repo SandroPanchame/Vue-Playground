@@ -1,0 +1,5 @@
+For some reason the css doesn't work. 
+Fixed it by re-writing the location for the style sheet in the html file. 
+The name wasn't changed, but somehow it worked?
+
+The reviews don't get saved anywhere.

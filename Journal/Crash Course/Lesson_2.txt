@@ -12,3 +12,4 @@
     - it appears I have the ending code for the course.
     - will have to fork and switch branches of the original code to have a starter
     - kind of sucks, but what ever. Need to be able to follow along
+    - {{}} -> allows the use of javascript in html

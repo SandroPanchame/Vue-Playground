@@ -1,0 +1,7 @@
+> V-bind directive
+    - <img v-bind:src="image"> 
+    - Dynamically bind an attribute to an expression
+    - vue equivalent to: {{ image }}
+    - attribute: src
+    - expression: "image"
+    - v-bind shorthand: :src='image'

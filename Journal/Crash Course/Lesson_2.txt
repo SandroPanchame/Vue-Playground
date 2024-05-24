@@ -8,6 +8,9 @@
     - ecma script
     - standardization of javascript
 
+> simplest way to use view
+    - <script src="https://unpkg.com/vue@3.0.0-beta.12/dist/vue.global.js"></script>
+
 > Lesson 2
     - it appears I have the ending code for the course.
     - will have to fork and switch branches of the original code to have a starter
